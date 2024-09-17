@@ -5,12 +5,15 @@
 
 ## 📋 Here's What to Do:
 
-1. **Create a new markdown file** for each AI tool that you evaluate. We suggest possibly using any of the five areas of evaluation mentioned in the task brief.
-      A) Opportunity
-      B) Risk
-      C) Tangible Benefit
-      D) Evaluation
-      E) Compiling the Report
+1. **Create a new markdown file** for each AI tool that you evaluate. We suggest possibly using any of the areas of evaluation mentioned in the task brief.
+      - Opportunity
+      - Risk
+      - Tangible Benefit
+      - Evaluation
+2. After you've completed all of the audits, you will **Compile The Report** in this file. Delete everything here, and then write your:
+      - Executive Summary
+      - Introduction
+      - Conclusion and Recommendations
 3. Discuss and **choose AI tools** as a team, and evaluate them across whichever key areas you feel is best suited.
 4. **Collaborate** as a team to ensure your findings are thorough and cover all necessary aspects.
 5. Once you're satisfied with your findings, **'Commit changes'** to the main branch of the repository.
